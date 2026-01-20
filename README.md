@@ -12,7 +12,7 @@ To use this project, you need to have Python and Jupyter Notebook installed on y
 
 Clone the repository:
 ```bash
-git clone https://github.com/kisnikser/Decentralized-Optimization.git
+git clone https://github.com/alexrogozin12/decentralized-mixed-constraints.git
 ```
 
 Install the required packages:
