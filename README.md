@@ -1,6 +1,6 @@
-# Decentralized Optimization with Coupled Constraints
+# Decentralized Optimization with Mixed Constraints
 
-This repository contains the code for the experiments related to our paper titled "Decentralized Optimization with Coupled Constraints", which we have submitted to the 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
+This repository contains the code for the experiments related to our paper titled "Decentralized Optimization with General Affine Constraints".
 
 ## Table of Contents
 1. [Installation](#installation)
